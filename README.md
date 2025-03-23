@@ -16,7 +16,8 @@ KernelSU: 适合高级用户或需要内核级隐蔽 Root 的场景（如应对�
 微信号:ZTikMQfov
 
 # Telegram
-官方组织:https://t.me/+I2SSgMfhf4NmZGY1
+官方组织
+https://t.me/+I2SSgMfhf4NmZGY1
 
 # QQ
 个人联系方式:
@@ -24,8 +25,13 @@ KernelSU: 适合高级用户或需要内核级隐蔽 Root 的场景（如应对�
 ❷3966561266(推荐)
 
 组织:
+
 ❶876438460(被禁言了)
 ❷1016746612(推荐)
 
 # 抖音
 个人:WikDfov
+
+# 赞赏码
+![mm_reward_qrcode_1739314957598](https://github.com/user-attachments/assets/6d591835-d865-4385-b477-3911b6ec2d77)
+感谢大家的赞赏，每个模块版本更新，我都会加上赞赏者的名字，谢谢大家！
