@@ -30,7 +30,7 @@ https://t.me/+I2SSgMfhf4NmZGY1
 ❷1016746612(推荐)
 
 # 抖音
-个人:WikDfov
+个人:WikDfov(感谢大家的关注)
 
 # 赞赏码
 ![mm_reward_qrcode_1739314957598](https://github.com/user-attachments/assets/6d591835-d865-4385-b477-3911b6ec2d77)
